@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/aziderius/web-app-bookings/pkg/config"
-	"github.com/aziderius/web-app-bookings/pkg/handlers"
-	"github.com/aziderius/web-app-bookings/pkg/render"
+	"github.com/aziderius/basic-go-web-app/internal/config"
+	"github.com/aziderius/basic-go-web-app/internal/handlers"
+	"github.com/aziderius/basic-go-web-app/internal/render"
 )
 
 const portNumber = ":8080"
